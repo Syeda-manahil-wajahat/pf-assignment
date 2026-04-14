@@ -1,6 +1,6 @@
-package assignment;
+
 import java.util.Scanner;
-public class part_b {
+public class part_c {
      static String decimalToBinary(int n)
     {String binary="";
         while (n>0){

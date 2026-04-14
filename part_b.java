@@ -1,6 +1,6 @@
-package assignment;
+
 import java.util.Scanner;
-public class part_c {
+public class part_b {
     static int[] getBinaryArray(int num ) {
         int[] binary=new int[32];
 int index=31;
